@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Browser launched successfully ]]>
+    </line>
+    <line>
+      <![CDATA[Application loaded ]]>
+    </line>
+    <line>
+      <![CDATA[Clicked onClick in the Username Field]]>
+    </line>
+    <line>
+      <![CDATA[Clicked onClick On the OneWay Dropdown]]>
+    </line>
+    <line>
+      <![CDATA[Clicked onClick On the RoundTrip from Dropdown]]>
+    </line>
+    <line>
+      <![CDATA[Clicked onClick On the SelectEconomy from Dropdown]]>
+    </line>
+    <line>
+      <![CDATA[Clicked onClick On the Adults + icon]]>
+    </line>
+    <line>
+      <![CDATA[Clicked onClick On the Children + icon]]>
+    </line>
+    <line>
+      <![CDATA[Clicked onClick On the Infants + icon]]>
+    </line>
+    <line>
+      <![CDATA[Clicked onClick On the SelectEconomy from Dropdown]]>
+    </line>
+    <line>
+      <![CDATA[Clicked onClick on text box]]>
+    </line>
+    <line>
+      <![CDATA[Entered TextGoa In the Enter Source]]>
+    </line>
+    <line>
+      <![CDATA[Clicked onSelect Goa from drop down]]>
+    </line>
+    <line>
+      <![CDATA[Clicked onSelect Text box]]>
+    </line>
+    <line>
+      <![CDATA[Entered TextMumbai In the Enter Destination]]>
+    </line>
+    <line>
+      <![CDATA[Clicked onSelect mumbai from drop down]]>
+    </line>
+    <line>
+      <![CDATA[Clicked onSelect from date]]>
+    </line>
+    <line>
+      <![CDATA[Clicked onSelect from date]]>
+    </line>
+    <line>
+      <![CDATA[Clicked onSelect to date]]>
+    </line>
+    <line>
+      <![CDATA[Clicked onSelect search flight button]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-01-14T01:01:15 IST" name="Default suite" finished-at="2024-01-14T01:01:38 IST" duration-ms="22737">
+    <groups>
+    </groups>
+    <test started-at="2024-01-14T01:01:15 IST" name="Default test" finished-at="2024-01-14T01:01:38 IST" duration-ms="22737">
+      <class name="com.Cleartrip.tests.TestSearchFlight">
+        <test-method is-config="true" signature="setUp(org.testng.ITestContext)[pri:0, instance:com.Cleartrip.tests.TestSearchFlight@7f485fda]" started-at="2024-01-14T01:01:15 IST" name="setUp" finished-at="2024-01-14T01:01:28 IST" duration-ms="13054" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@753fd7a1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser launched successfully ]]>
+            </line>
+            <line>
+              <![CDATA[Application loaded ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="searchFlight()[pri:0, instance:com.Cleartrip.tests.TestSearchFlight@7f485fda]" started-at="2024-01-14T01:01:28 IST" name="searchFlight" finished-at="2024-01-14T01:01:38 IST" duration-ms="9538" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicked onClick in the Username Field]]>
+            </line>
+            <line>
+              <![CDATA[Clicked onClick On the OneWay Dropdown]]>
+            </line>
+            <line>
+              <![CDATA[Clicked onClick On the RoundTrip from Dropdown]]>
+            </line>
+            <line>
+              <![CDATA[Clicked onClick On the SelectEconomy from Dropdown]]>
+            </line>
+            <line>
+              <![CDATA[Clicked onClick On the Adults + icon]]>
+            </line>
+            <line>
+              <![CDATA[Clicked onClick On the Children + icon]]>
+            </line>
+            <line>
+              <![CDATA[Clicked onClick On the Infants + icon]]>
+            </line>
+            <line>
+              <![CDATA[Clicked onClick On the SelectEconomy from Dropdown]]>
+            </line>
+            <line>
+              <![CDATA[Clicked onClick on text box]]>
+            </line>
+            <line>
+              <![CDATA[Entered TextGoa In the Enter Source]]>
+            </line>
+            <line>
+              <![CDATA[Clicked onSelect Goa from drop down]]>
+            </line>
+            <line>
+              <![CDATA[Clicked onSelect Text box]]>
+            </line>
+            <line>
+              <![CDATA[Entered TextMumbai In the Enter Destination]]>
+            </line>
+            <line>
+              <![CDATA[Clicked onSelect mumbai from drop down]]>
+            </line>
+            <line>
+              <![CDATA[Clicked onSelect from date]]>
+            </line>
+            <line>
+              <![CDATA[Clicked onSelect from date]]>
+            </line>
+            <line>
+              <![CDATA[Clicked onSelect to date]]>
+            </line>
+            <line>
+              <![CDATA[Clicked onSelect search flight button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchFlight -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Cleartrip.tests.TestSearchFlight@7f485fda]" started-at="2024-01-14T01:01:38 IST" name="tearDown" finished-at="2024-01-14T01:01:38 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Cleartrip.tests.TestSearchFlight -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
